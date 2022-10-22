@@ -771,13 +771,7 @@
 //        System.out.println(kop_time);
 //
 //
-//        ArrayList<Phone> intercity = new ArrayList<>();
-//        for(Phone s:phoneArrayList){
-//            if(s.getTime()>0){
-//                intercity.add(s);
-//            }
-//        }
-//        System.out.println(intercity);
+//
 //
 //
 //        Collections.sort(phoneArrayList,new SortByName());
